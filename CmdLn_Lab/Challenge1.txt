@@ -1,0 +1,3 @@
+Number of BCM_15034 files: 4
+Number of BCM-15034 files: 8
+Total count: 12
