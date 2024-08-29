@@ -1,0 +1,28 @@
+{
+    "id": "824A694A",
+    "path": "~/CCTR691/24.08.22_ClusterIntroLab/24.08.22_HelloWorld_Way.Rmd",
+    "project_path": "24.08.22_HelloWorld_Way.Rmd",
+    "type": "r_markdown",
+    "hash": "450890998",
+    "contents": "",
+    "dirty": false,
+    "created": 1724335417861.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "chunk_output_type": "inline",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "33,0",
+        "scrollLine": "10"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1724335952,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1724335953005,
+    "read_only": false,
+    "read_only_alternatives": []
+}

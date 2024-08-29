@@ -1,0 +1,17 @@
+"0","system(""ls -R ~/CCTR691"")"
+"1","/lustre/home/waygw/CCTR691:
+24.08.22_ClusterIntroLab
+24.09.26_BnfoLab
+24.10.24_NLPLab
+
+/lustre/home/waygw/CCTR691/24.08.22_ClusterIntroLab:
+24.08.22_ClusterIntroLab.Rproj
+24.08.22_HelloWorld_Way.html
+24.08.22_HelloWorld_Way.ipynb
+24.08.22_HelloWorld_Way.nb.html
+24.08.22_HelloWorld_Way.Rmd
+
+/lustre/home/waygw/CCTR691/24.09.26_BnfoLab:
+
+/lustre/home/waygw/CCTR691/24.10.24_NLPLab:
+"
