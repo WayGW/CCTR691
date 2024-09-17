@@ -1,0 +1,18 @@
+Findable:
+1. It meets the criteria as it has a global unique ID and is deposited in a global data repository (GSE276609 and GEO, respectively)
+2. It meets this criteria as it has descriptive metadata describing the data origin (organism, experiment type, study design, contributors, platforms, samples with descriptions, etc.)
+3. It meets this criteria as the data is readable by both people and machines
+
+Accessible:
+4. I think it meets criteria as access to the dataset is restricted until Sep 5, 2025; however, I can not find any specific license information in any of the attached files or in the GEO information sections.
+5. It meets this criteria as it is in a public data repository and it using previously subimtted data also submitted to a repository.
+
+Interoperable:
+6. I think it does this, but I am not well versed in this. It uses what I assume are standard controlled vocabulary (like xenograft, triple-negative breast cancer, estrogen receptor positive breast cancer, etc.) but I am not in this specific field so I am unsure.
+
+Reusable:
+7. It meets this criteria. It contains information about the data generation and is also using previously generated data and re-analyzing it with links to the previous results.
+8. It meets this criteria (also still confused how this is different than 6?) as it is using coomunity-endorsed standards for disease classifcation and experimental technique nomenclature.
+9. I am not sure it  meets this criteria. If cloupe files are proprietary then it does not (unless the RAW folder provided also contains non-proprietary files that can generate the same output as the cloupe (eventually) then it does meet the criteria). 
+However, it also links to the raw sequencing files via SRA so I think it does meet this criteria.
+10. I believe it meets this criteria, I didn't see anything about a data management plan but it appears to have a plan for the future in place as it is private until Sep 5, 2025.
